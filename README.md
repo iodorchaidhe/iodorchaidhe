@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I'm Iain Ó Dorchaidhe
+
+I'm a senior graphics engineer specializing in low-level rendering systems (primarily on consoles).
+
+You can find me at @iodorchaidhe on Twitter.
 
 <!--
 **iodorchaidhe/iodorchaidhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
